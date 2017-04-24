@@ -158,6 +158,7 @@ void ofApp::draw(){
     // Draw the debug information
     if(debugModeEnabled) {
         ofSetBackgroundColor(100);
+        ofShowCursor();
         gui.draw();
         if(gui.getToggle("Edit Textures")){
             preProcessing.drawGUI();
@@ -169,6 +170,7 @@ void ofApp::draw(){
     }
     else {
         ofSetBackgroundColor(0);
+        ofHideCursor();
     }
 }
 //--------------------------------------------------------------

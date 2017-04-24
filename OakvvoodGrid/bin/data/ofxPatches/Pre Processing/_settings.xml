@@ -1,5 +1,5 @@
 <inputs>
-    <id>1620789567</id>
+    <id>57949824</id>
 </inputs>
 <gui_position>
     <x>11.000000000</x>
@@ -116,6 +116,17 @@
         <inputs>
             <id>2065964756</id>
             <id>572977959</id>
+        </inputs>
+    </patch>
+    <patch>
+        <id>57949824</id>
+        <name>Brightness / Contrast</name>
+        <gui_position>
+            <x>880.000000000</x>
+            <y>616.500000000</y>
+        </gui_position>
+        <inputs>
+            <id>1620789567</id>
         </inputs>
     </patch>
 </patches>

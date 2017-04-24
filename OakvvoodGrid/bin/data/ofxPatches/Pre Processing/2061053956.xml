@@ -1,7 +1,7 @@
 <group>
 	<Bypass>0</Bypass>
 	<Preview_Scale>0.195</Preview_Scale>
-	<Minimum>0.06</Minimum>
-	<Maximum>0.71</Maximum>
+	<Minimum>0</Minimum>
+	<Maximum>1</Maximum>
 <group/>
 </group>

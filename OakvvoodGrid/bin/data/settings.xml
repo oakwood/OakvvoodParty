@@ -4,6 +4,7 @@
 	<Grid_Divisions>5</Grid_Divisions>
 <Grid_Thickness>2</Grid_Thickness>
 	<Draw_Wireframe>0</Draw_Wireframe>
-<Edit_Textures>0</Edit_Textures>
+<Edit_Textures>1</Edit_Textures>
 	<Edit_Warp_Blend_Tool>0</Edit_Warp_Blend_Tool>
+<Camera_Scale>1.5125</Camera_Scale>
 </group>

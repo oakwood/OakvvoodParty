@@ -1,0 +1,58 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "8DEF13CF00D8CE2E3D17E49EC76706BFE411EFCB",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "DC744C201458BB726B805B47CA1BBE00990C1814" : 9223372036854775807,
+    "D0C43A4EF893FE42CB13B4DE17C49EDBD7BA9C87" : 9223372036854775807,
+    "822CBBF35EE99AD08308D0A6CCA015A457F9E7CD" : 9223372036854775807,
+    "B7CCA6A8C889ED4C803FBF307564FD139754E943" : 9223372036854775807,
+    "D63B4F64E2C662155E8CCAE405068BAD1D707483" : 9223372036854775807,
+    "8DEF13CF00D8CE2E3D17E49EC76706BFE411EFCB" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "9B52EAB3-2841-41B9-9048-4AE518C5DE88",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "DC744C201458BB726B805B47CA1BBE00990C1814" : "..\/addons\/ofxGLWarper",
+    "D0C43A4EF893FE42CB13B4DE17C49EDBD7BA9C87" : "..\/addons\/ofxPatches",
+    "822CBBF35EE99AD08308D0A6CCA015A457F9E7CD" : "..\/addons\/ofxModifierKeys",
+    "B7CCA6A8C889ED4C803FBF307564FD139754E943" : "..\/addons\/ofxFX",
+    "D63B4F64E2C662155E8CCAE405068BAD1D707483" : "..\/addons\/ofxWarpBlendTool",
+    "8DEF13CF00D8CE2E3D17E49EC76706BFE411EFCB" : "OakvvoodParty\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "OakvvoodGrid",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "OakvvoodGrid\/OakvvoodGrid.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:paulobarcelos\/ofxModifierKeys.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "822CBBF35EE99AD08308D0A6CCA015A457F9E7CD"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/oakwood\/OakvvoodParty.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8DEF13CF00D8CE2E3D17E49EC76706BFE411EFCB"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:patriciogonzalezvivo\/ofxFX.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B7CCA6A8C889ED4C803FBF307564FD139754E943"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/paulobarcelos\/ofxPatches.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D0C43A4EF893FE42CB13B4DE17C49EDBD7BA9C87"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/paulobarcelos\/ofxWarpBlendTool.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D63B4F64E2C662155E8CCAE405068BAD1D707483"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/roymacdonald\/ofxGLWarper.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "DC744C201458BB726B805B47CA1BBE00990C1814"
+    }
+  ]
+}
