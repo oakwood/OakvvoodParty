@@ -1,0 +1,54 @@
+<inputs>
+    <id>1385563879</id>
+</inputs>
+<gui_position>
+    <x>11.000000000</x>
+    <y>4.000000000</y>
+</gui_position>
+<patches_gui_position>
+    <x>1059.000000000</x>
+    <y>12.000000000</y>
+</patches_gui_position>
+<patches>
+    <patch>
+        <id>772851141</id>
+        <name>Source 1</name>
+        <gui_position>
+            <x>475.000000000</x>
+            <y>7.500000000</y>
+        </gui_position>
+        <inputs></inputs>
+    </patch>
+    <patch>
+        <id>1328029731</id>
+        <name>Source 0</name>
+        <gui_position>
+            <x>467.000000000</x>
+            <y>184.500000000</y>
+        </gui_position>
+        <inputs></inputs>
+    </patch>
+    <patch>
+        <id>1385563879</id>
+        <name>Hayasaka Blend</name>
+        <gui_position>
+            <x>699.000000000</x>
+            <y>264.000000000</y>
+        </gui_position>
+        <inputs>
+            <id>1764303026</id>
+            <id>1328029731</id>
+        </inputs>
+    </patch>
+    <patch>
+        <id>1764303026</id>
+        <name>Brightness / Contrast</name>
+        <gui_position>
+            <x>723.000000000</x>
+            <y>13.500000000</y>
+        </gui_position>
+        <inputs>
+            <id>772851141</id>
+        </inputs>
+    </patch>
+</patches>

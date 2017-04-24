@@ -1,0 +1,89 @@
+<inputs>
+    <id>1015610567</id>
+</inputs>
+<gui_position>
+    <x>10.000000000</x>
+    <y>19.000000000</y>
+</gui_position>
+<patches_gui_position>
+    <x>14.000000000</x>
+    <y>292.000000000</y>
+</patches_gui_position>
+<patches>
+    <patch>
+        <id>695935633</id>
+        <name>Crop</name>
+        <gui_position>
+            <x>816.000000000</x>
+            <y>47.000000000</y>
+        </gui_position>
+        <inputs>
+            <id>2061053956</id>
+        </inputs>
+    </patch>
+    <patch>
+        <id>1563997732</id>
+        <name>Custom BW</name>
+        <gui_position>
+            <x>245.000000000</x>
+            <y>211.500000000</y>
+        </gui_position>
+        <inputs>
+            <id>1326326899</id>
+        </inputs>
+    </patch>
+    <patch>
+        <id>704822374</id>
+        <name>Band Threshold</name>
+        <gui_position>
+            <x>227.000000000</x>
+            <y>380.000000000</y>
+        </gui_position>
+        <inputs>
+            <id>1563997732</id>
+        </inputs>
+    </patch>
+    <patch>
+        <id>429842966</id>
+        <name>Channel Mask</name>
+        <gui_position>
+            <x>493.000000000</x>
+            <y>342.000000000</y>
+        </gui_position>
+        <inputs>
+            <id>1563997732</id>
+            <id>704822374</id>
+        </inputs>
+    </patch>
+    <patch>
+        <id>2061053956</id>
+        <name>Linear Levels</name>
+        <gui_position>
+            <x>554.000000000</x>
+            <y>85.000000000</y>
+        </gui_position>
+        <inputs>
+            <id>429842966</id>
+        </inputs>
+    </patch>
+    <patch>
+        <id>1326326899</id>
+        <name>Source 1</name>
+        <gui_position>
+            <x>240.000000000</x>
+            <y>18.500000000</y>
+        </gui_position>
+        <inputs></inputs>
+    </patch>
+    <patch>
+        <id>1015610567</id>
+        <name>Gaussian Blur</name>
+        <gui_position>
+            <x>999.000000000</x>
+            <y>274.000000000</y>
+        </gui_position>
+        <inputs>
+            <id>695935633</id>
+        </inputs>
+    </patch>
+</patches>

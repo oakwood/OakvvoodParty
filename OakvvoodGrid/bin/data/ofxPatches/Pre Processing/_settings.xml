@@ -1,0 +1,121 @@
+<inputs>
+    <id>1620789567</id>
+</inputs>
+<gui_position>
+    <x>11.000000000</x>
+    <y>228.000000000</y>
+</gui_position>
+<patches_gui_position>
+    <x>1124.000000000</x>
+    <y>6.000000000</y>
+</patches_gui_position>
+<patches>
+    <patch>
+        <id>695935633</id>
+        <name>Crop</name>
+        <gui_position>
+            <x>686.000000000</x>
+            <y>7.000000000</y>
+        </gui_position>
+        <inputs>
+            <id>2061053956</id>
+        </inputs>
+    </patch>
+    <patch>
+        <id>572977959</id>
+        <name>Brightness / Contrast</name>
+        <gui_position>
+            <x>909.000000000</x>
+            <y>171.500000000</y>
+        </gui_position>
+        <inputs>
+            <id>2123063897</id>
+        </inputs>
+    </patch>
+    <patch>
+        <id>704822374</id>
+        <name>Band Threshold</name>
+        <gui_position>
+            <x>459.000000000</x>
+            <y>139.000000000</y>
+        </gui_position>
+        <inputs>
+            <id>1326326899</id>
+        </inputs>
+    </patch>
+    <patch>
+        <id>429842966</id>
+        <name>Channel Mask</name>
+        <gui_position>
+            <x>459.000000000</x>
+            <y>310.000000000</y>
+        </gui_position>
+        <inputs>
+            <id>1326326899</id>
+            <id>704822374</id>
+        </inputs>
+    </patch>
+    <patch>
+        <id>2061053956</id>
+        <name>Linear Levels</name>
+        <gui_position>
+            <x>464.000000000</x>
+            <y>474.000000000</y>
+        </gui_position>
+        <inputs>
+            <id>429842966</id>
+        </inputs>
+    </patch>
+    <patch>
+        <id>1326326899</id>
+        <name>Source 1</name>
+        <gui_position>
+            <x>462.000000000</x>
+            <y>7.500000000</y>
+        </gui_position>
+        <inputs></inputs>
+    </patch>
+    <patch>
+        <id>1015610567</id>
+        <name>Gaussian Blur</name>
+        <gui_position>
+            <x>685.000000000</x>
+            <y>233.000000000</y>
+        </gui_position>
+        <inputs>
+            <id>695935633</id>
+        </inputs>
+    </patch>
+    <patch>
+        <id>2123063897</id>
+        <name>Noise</name>
+        <gui_position>
+            <x>903.000000000</x>
+            <y>8.500000000</y>
+        </gui_position>
+        <inputs></inputs>
+    </patch>
+    <patch>
+        <id>2065964756</id>
+        <name>Accumulator</name>
+        <gui_position>
+            <x>682.000000000</x>
+            <y>442.000000000</y>
+        </gui_position>
+        <inputs>
+            <id>1015610567</id>
+        </inputs>
+    </patch>
+    <patch>
+        <id>1620789567</id>
+        <name>Hayasaka Blend</name>
+        <gui_position>
+            <x>910.000000000</x>
+            <y>362.000000000</y>
+        </gui_position>
+        <inputs>
+            <id>2065964756</id>
+            <id>572977959</id>
+        </inputs>
+    </patch>
+</patches>

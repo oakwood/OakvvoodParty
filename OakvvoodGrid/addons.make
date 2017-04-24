@@ -1,0 +1,9 @@
+ofxFX
+ofxGLWarper
+ofxGui
+ofxKinect
+ofxModifierKeys
+ofxOpenCv
+ofxPatches
+ofxWarpBlendTool
+ofxXmlSettings
